@@ -11,3 +11,6 @@ date,run,km,pace,heartrate,elevation,weather,timeofday,energy,listening
 2026-10-15,3,1,6:29,125,-4,cloudy,afternoon,3,podcast
 2026-10-15,3,2,5:50,138,0,cloudy,afternoon,3,podcast
 2026-10-15,3,3,5:38,146,-2,cloudy,afternoon,3,podcast
+2026-10-16,4,1,6:32,131,-4,sunny,evening,5,music
+2026-10-16,4,2,6:01,143,-1,sunny,evening,5,music
+2026-10-16,4,3,5:42,137,-2,sunny,evening,5,music
