@@ -17,3 +17,7 @@ date,run,km,pace,heartrate,elevation,weather,timeofday,energy,listening
 2026-10-17,5,1,6:30,132,-4,cloudy,evening,4,music
 2026-10-17,5,2,5:58,142,-1,cloudy,evening,4,music
 2026-10-17,5,3,5:57,140,-2,cloudy,evening,4,music
+2026-10-18,6,1,6:28,128,-6,rainy,evening,3,silence
+2026-10-18,6,2,6:22,143,0,rainy,evening,3,silence
+2026-10-18,6,3,6:10,150,-2,rainy,evening,3,silence
+2026-10-18,6,4,6:14,145,-1,rainy,evening,3,silence
