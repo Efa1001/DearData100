@@ -24,4 +24,5 @@ Progress log:
 16 Oct - run 4, 3 km, sunny evening, avg pace 6:05, energy 5, music
 17 Oct - run 5, 3 km, cloudy evening, avg pace 6:08, energy 4, music
 18 Oct - run 6, 4 km, rainy evening, avg pace 6:19, energy 3, silence
+19 Oct - run 7, 3 km, sunny evening, avg pace 6:09, energy 3, silence
 
