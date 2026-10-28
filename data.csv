@@ -45,3 +45,7 @@ date,run,km,pace,heartrate,elevation,weather,timeofday,energy,listening
 2026-10-27,13,2,6:15,149,-1,sunny,afternoon,4,silence
 2026-10-27,13,3,6:04,165,-1,sunny,afternoon,4,silence
 2026-10-27,13,4,6:06,155,-2,sunny,afternoon,4,silence
+2026-10-28,14,1,6:25,142,-6,cloudy,morning,4,music
+2026-10-28,14,2,6:14,149,-2,cloudy,morning,4,music
+2026-10-28,14,3,6:01,163,-2,cloudy,morning,4,music
+2026-10-28,14,4,6:04,156,-1,cloudy,morning,4,music
