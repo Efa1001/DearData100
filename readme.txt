@@ -33,4 +33,5 @@ Progress log:
 27 Oct - run 13, 4 km, sunny afternoon, avg pace 6:12, energy 4, silence
 28 Oct - run 14, 4 km, cloudy morning, avg pace 6:11, energy 4, music
 29 Oct - run 15, 3 km, sunny morning, avg pace 5:36, energy 4, podcast
+30 Oct - run 16, 3 km, sunny morning, avg pace 6:06, energy 5, music
 
