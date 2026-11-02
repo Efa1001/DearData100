@@ -10,7 +10,7 @@ run - run number (1st,2nd,3rd...)
 km - which km of the run
 pace - minutes per km
 heartrate - average heart rate for that km
-elevation - metres climbed in that km
+elevation - metres climbed in that km, in metres (negative=downhill)
 weather - sunny / cloudy / rainy / windy / mild
 timeofday - morning / afternoon / evening
 energy - how i felt, 1 (tired) to 5 (great)
