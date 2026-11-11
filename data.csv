@@ -61,3 +61,8 @@ date,run,km,pace,heartrate,elevation,weather,timeofday,energy,listening
 2026-11-09,18,1,6:15,139,-4,cloudy,morning,4,music
 2026-11-09,18,2,5:58,155,-2,cloudy,morning,4,music
 2026-11-09,18,3,6:01,151,-1,cloudy,morning,4,music
+2026-11-11,19,1,6:11,140,-4,cloudy,morning,4,silence
+2026-11-11,19,2,5:50,164,-1,cloudy,morning,4,silence
+2026-11-11,19,3,5:52,161,-1,cloudy,morning,4,silence
+2026-11-11,19,4,6:02,150,-2,cloudy,morning,4,silence
+
