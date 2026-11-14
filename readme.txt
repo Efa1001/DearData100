@@ -15,6 +15,7 @@ weather - sunny / cloudy / rainy / windy / mild
 timeofday - morning / afternoon / evening
 energy - how i felt, 1 (tired) to 5 (great)
 listening - music / podcast / silence
+temp - temperature in °C (recorded from run 21)
 
 Progress log:
 12 Oct - set up repo, data file and readme
@@ -38,5 +39,5 @@ Progress log:
 9 Nov - run 18, 3 km, cloudy morning, avg pace 6:05, energy 4, music
 11 Nov - run 19, 4 km, cloudy morning, avg pace 5:59, energy 4, silence
 12 Nov - run 20, 3 km, sunny morning, avg pace 6:04, energy 3, music
-
+14 Nov - run 21, 5 km, sunny morning, 7°C, avg pace 5:58, energy 4, podcast
 
