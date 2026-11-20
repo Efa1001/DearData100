@@ -44,5 +44,6 @@ Progress log:
 17 Nov - run 23, 3 km, rainy morning, 9°C, avg pace 6:11, energy 4, music
 18 Nov - run 24, 3 km, rainy morning, 7°C, avg pace 5:54, energy 4, music
 19 Nov - run 25, 4 km, sunny morning, 5°C, avg pace 5:51, energy 5, podcast
+20 Nov - run 26, 3 km, cloudy morning, 6°C, avg pace 6:05, energy 4, music
 
 
